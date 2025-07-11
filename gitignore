@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment files
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# PyTorch save files
+*.pth
+*.pt
+
+# Data
+data/
+*.zip
+
+# VSCode settings
+.vscode/
+
+# MacOS / Windows
+.DS_Store
+Thumbs.db
